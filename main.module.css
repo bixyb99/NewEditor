@@ -1,0 +1,30 @@
+.editor {
+    height: 100vh;
+    width: 100%; 
+    overflow: hidden;
+}
+
+/* Assuming you have a CSS file for the SideDrawer component */
+.sideDrawer {
+    background-color: white; /* Change this to your desired color */
+    /* Add any other styles you want for the sidebar */
+}
+
+/* If you want to apply styles directly in the EditorComponent */
+
+.editor {
+    height: 100vh;
+    width: 100%; 
+    overflow: hidden; /* Change to 'auto' if you want scrolling */
+}
+
+
+/* Assuming you have a CSS file for the SideDrawer component */
+.sideDrawer {
+    background-color: white; /* Change this to your desired color */
+    /* Add any other styles you want for the sidebar */
+}
+
+.ant-col {
+    background-color: white; /* Change this to your desired color */
+}
